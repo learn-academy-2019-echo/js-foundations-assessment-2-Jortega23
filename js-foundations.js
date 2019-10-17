@@ -33,7 +33,7 @@ var randomNouns = ["streetlamp", "potato", "teeth", "conclusion", "nephew", "tem
 
 // 3a. Write a function that returns every other item from the array as one string. Expected output: "streetlamp teeth nephew database"
 
-// var randomNouns = ["streetlamp", "potato", "teeth", "conclusion", "nephew", "temperature", "database"]
+    var randomNouns = ["streetlamp", "potato", "teeth", "conclusion", "nephew", "temperature", "database"]
  
  function newNouns(arr){
      let newList = []
@@ -58,6 +58,16 @@ function capArray(arr){
 console.log(capArray(randomNouns));
 
 // 3c. STRETCH: Create a function that returns the length of each string from the randomNouns variable. Expected output: [10, 6, 5, 10, 6, 11, 8]
+
+nounRandom = (array) =>{
+    let nounNum = []
+    for(i=0; i > array.length;i++){
+        var nounLength= array[i].length
+    }
+    return nounNum 
+}
+
+console.log(nounRandom(randomNouns))
 
 
 
