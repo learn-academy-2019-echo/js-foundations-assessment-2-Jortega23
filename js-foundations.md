@@ -14,26 +14,26 @@ logIt()
 
 
 1a. Look at this Javascript function and try to predict what the console show.
-
+-undfined
 
 
 1b. Test the function. Explain why the function returned what it did.
 
-  Your answer:
+  Your answer: after testing the function I recieved an syntax error, stating that "text" had been declared
 
-  Researched answer:
+  Researched answer: 
 
 
 2. What is JSON?
 
-  Your answer:
+  Your answer: its some form of packagage for javascript
 
-  Researched answer:
+  Researched answer: its a syntax for storing and exchanging data
 
 
 3. What does CRUD stand for?
 
-  Your answer:
+  Your answer: create read update delete
 
   Researched answer:
 
@@ -43,14 +43,14 @@ logIt()
 
   Your answer:
 
-  Researched answer:
+  Researched answer:Get, post, put, patch
 
 
 5. What is a higher-order function?
 
-  Your answer:
+  Your answer: its a function thats superior to other function 
 
-  Researched answer:
+  Researched answer: a function that can take in another function as an argument
 
 
 6. STRETCH: What is a closure, what is it good for and how do you recognize one?
@@ -64,17 +64,17 @@ logIt()
 
   Your answer:
 
-  Researched answer:
+  Researched answer: application programming interface for either hosting web server or web browser
 
 
 ### Additional Feedback Questions.
 
 1. Do you have a suggestion for a Check In question?
-
+-if you could learn an additional skill outside of web development what would it be?
 
 
 2. What was your favorite topic this week?
-
+-learning how responsive and quick react is
 
 
 3. What was your "A-ha!" moment this week?
